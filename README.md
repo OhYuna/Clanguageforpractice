@@ -1,6 +1,3 @@
-
-# Clanguageforpractice
-This is for homework from institute
 #include <stdio.h>
 
 int main(void)
@@ -19,5 +16,4 @@ int main(void)
 	}
 
 	printf(" = %lf \n", sum);
-
 }
